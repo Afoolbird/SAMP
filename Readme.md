@@ -4,7 +4,7 @@ This document contains the method of obtaining the dataset as well as the enviro
 
 # Overview
 
-<img src=".\pictures\Fig_overview.png">  
+<img src=".\Fig_overview.png">  
 
 
 
