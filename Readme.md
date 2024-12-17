@@ -1,4 +1,4 @@
-# Semantic Ambiguity Modeling and Propagation for Fine-Grained Visual Cross View Geo-Localization
+# AAAI2025: Semantic Ambiguity Modeling and Propagation for Fine-Grained Visual Cross View Geo-Localization
 
 This document contains the method of obtaining the dataset as well as the environment configuration and training methods for the  codes of Semantic Ambiguity Modeling and Propagation for Fine-Grained Visual Cross View Geo-Localization.
 
